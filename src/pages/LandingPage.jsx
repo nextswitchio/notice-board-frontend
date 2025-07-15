@@ -54,7 +54,7 @@ const LandingPage = () => {
 
   const levels = [
     {
-      id: '100',
+      id: '1',
       title: '100 Level',
       description: 'First year students - Foundation courses and orientation',
       icon: BookOpen,
