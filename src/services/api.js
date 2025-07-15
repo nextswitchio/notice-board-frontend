@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_BASE_URL = 'http://192.168.0.9:4000'
+const API_BASE_URL = 'https://critical-gwenette-petjoe-a0e27cf3.koyeb.app'
 
 const api = axios.create({
   baseURL: API_BASE_URL,
