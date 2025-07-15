@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_BASE_URL = 'https://critical-gwenette-petjoe-a0e27cf3.koyeb.app'
+const API_BASE_URL = 'https://notice.koyeb.app'
 
 const api = axios.create({
   baseURL: API_BASE_URL,
